@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>e927c095-6403-418b-b303-ea318c1047ca</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Example1.docx</DisplayName>
+    <PathInsideRepo>word docs</PathInsideRepo>
+    <RepoRootFolder>C:\Users\Admin\Documents\GitHub\snirttest1</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>8a37dc99-b507-42ed-9187-2069ad34f9ee</guid>
+  </Tags>
+</FolderEntryTags>
