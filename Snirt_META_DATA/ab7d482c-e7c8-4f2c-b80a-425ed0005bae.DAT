@@ -22,6 +22,13 @@
       <Vote>0</Vote>
       <CommitId>a0aa85a2889ccdb9ee63d05c83346a3c31999177</CommitId>
     </Comment>
+    <Comment>
+      <DocumentPath>word docs\Example1.docx</DocumentPath>
+      <Text>and the background for add comment too</Text>
+      <CommentDateTime>2014-02-21T14:38:54.8154296-08:00</CommentDateTime>
+      <Vote>0</Vote>
+      <CommitId>a0aa85a2889ccdb9ee63d05c83346a3c31999177</CommitId>
+    </Comment>
   </Comments>
   <Follows />
   <FileVersionCommitExtensions />
