@@ -6,7 +6,7 @@
   <EmailDisplayName>meticulon</EmailDisplayName>
   <EmailAddress>michael@meticulon.com</EmailAddress>
   <IsDefault>false</IsDefault>
-  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsEAAA7BAbiRa+0AAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
+  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
   <Comments>
     <Comment>
       <DocumentPath>word docs\Example1.docx</DocumentPath>
@@ -30,21 +30,8 @@
       <CommitId>a0aa85a2889ccdb9ee63d05c83346a3c31999177</CommitId>
     </Comment>
   </Comments>
-  <Follows>
-    <Follow>
-      <DocumentPath>word docs\Example1.docx</DocumentPath>
-    </Follow>
-  </Follows>
-  <FileVersionCommitExtensions>
-    <FileVersionCommitExtension>
-      <DocumentPath>word docs\Example1.docx</DocumentPath>
-      <CommitComment>Added some comments</CommitComment>
-      <CommitDateTime>2014-02-21T14:47:44</CommitDateTime>
-      <CommitId>2ab01246c514608da4db71a2a370a858d1936e32</CommitId>
-      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAN6SURBVHhe7dZrb9pYFIXh+f8/phopUwIEbCDcjA2GkFByGSVtpVHbMApg7jWsbh8lUaU0UvupS9V6JHSwsbGTV2z5LwgVFyRJErfxve1m49bDPsVytcE+3WGX7p/3T2cztz5Zb9ZufZg+uDWzfv6OPTb2+f39ve3bun3yYy6IXykjjgdoNxsoHv+DWrWOo6MjNBoNXAx6OPHquB6fo1D04JeKiMIIJ34N9cYpBj07r9VEqXyCwXCIt4UCoqCJfC4Pr95ArZRHoxPZcV27ThW37z+4C8uPvRhZh8Ph8d2vefU825/aL0R+jgsymUyQpilms6n7563Wa2y3W+ztffZ6mM5sZKV2jG27NX3+LHstFgu3L/t8bedm6263c5FeHp8iseOz99kY+5p9p71PFolbn45dLJbY2efJcv28/+mesmt8f39/EgtyQL3qIZc7hl+rIgzaqFQqKJZ9dOo+rm4/IGi3UbUx1usPELabKOTeotEKEUURSsVjBHZOuVRB20ZV30ZYYCNqNBri7u4Wf79548ZgFIYoexWcVny0wy7Oz89Q9T28G18hd1xAGEf2fV007R5OyhXUvDJ6cR+NdohxP0DRayLuBih5PmK7j26vh9Oqj7OL8eOf8md4MbLk93K/kIk9/cxncxsTiRsVyXyKL5P/sbCnr/k8wecvn23f3J621tjYuJjZsR/f3+G/T59svG2wWq3sSW3uRt1qucTSXtl5C1uz7amNvKV993a7e7ysvMYFiTodjM5i1FsBRuNLXF+OULcnpLgXI+rGNl5ieJ6Hfr9vYymy7Qt0gg4uRra2W7i8+RfDQYzQjg2DFsZX1zgfDlDI53Fzc4VWENu4Ce0J6+PjZeU1GllkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMgpBREDIKQkZByCgIGQUhoyBkFISMglABvgGh22JwU+o6UgAAAABJRU5ErkJggg==</DocumentThumbnailBitmap>
-      <UserId>ab7d482c-e7c8-4f2c-b80a-425ed0005bae</UserId>
-    </FileVersionCommitExtension>
-  </FileVersionCommitExtensions>
+  <Follows />
+  <FileVersionCommitExtensions />
   <CurrentFilterCriteria>
     <Following>false</Following>
     <Collaborators />
