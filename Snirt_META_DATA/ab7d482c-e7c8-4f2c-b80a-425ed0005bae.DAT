@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>ab7d482c-e7c8-4f2c-b80a-425ed0005bae</Id>
+  <UserName>meticulon</UserName>
+  <GuiDisplayName>meticulon</GuiDisplayName>
+  <EmailDisplayName>meticulon</EmailDisplayName>
+  <EmailAddress />
+  <IsDefault>false</IsDefault>
+  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
+  <Comments />
+  <Follows />
+  <FileVersionCommitExtensions />
+  <CurrentFilterCriteria>
+    <Following>false</Following>
+    <Collaborators />
+    <Tags />
+    <StartDate xsi:nil="true" />
+    <EndDate xsi:nil="true" />
+    <Unpublished>false</Unpublished>
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </CurrentFilterCriteria>
+</User>
