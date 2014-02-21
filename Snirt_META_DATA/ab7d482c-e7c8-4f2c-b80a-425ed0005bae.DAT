@@ -6,7 +6,7 @@
   <EmailDisplayName>meticulon</EmailDisplayName>
   <EmailAddress>michael@meticulon.com</EmailAddress>
   <IsDefault>false</IsDefault>
-  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
+  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsEAAA7BAbiRa+0AAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
   <Comments>
     <Comment>
       <DocumentPath>word docs\Example1.docx</DocumentPath>
@@ -30,7 +30,11 @@
       <CommitId>a0aa85a2889ccdb9ee63d05c83346a3c31999177</CommitId>
     </Comment>
   </Comments>
-  <Follows />
+  <Follows>
+    <Follow>
+      <DocumentPath>word docs\Example1.docx</DocumentPath>
+    </Follow>
+  </Follows>
   <FileVersionCommitExtensions />
   <CurrentFilterCriteria>
     <Following>false</Following>
