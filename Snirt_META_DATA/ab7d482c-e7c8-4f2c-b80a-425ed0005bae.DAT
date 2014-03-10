@@ -29,6 +29,13 @@
       <Vote>0</Vote>
       <CommitId>a0aa85a2889ccdb9ee63d05c83346a3c31999177</CommitId>
     </Comment>
+    <Comment>
+      <DocumentPath>word docs\word docs\Training 1 - Test file 1.docx</DocumentPath>
+      <Text>What the heck is going on with the duplicate folders? User error or BUG????</Text>
+      <CommentDateTime>2014-03-10T10:42:41.3703828-07:00</CommentDateTime>
+      <Vote>0</Vote>
+      <CommitId>e69a72fd7135bade5ff27ad64abd992c7bab93b1</CommitId>
+    </Comment>
   </Comments>
   <Follows />
   <FileVersionCommitExtensions />
