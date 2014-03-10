@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>dbd8416b-884b-4dcb-b970-9ccecf5e2f00</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Training 1 - Test file 1.docx</DisplayName>
+    <PathInsideRepo>word docs\word docs</PathInsideRepo>
+    <RepoRootFolder>C:\Users\Admin\Documents\GitHub\snirttest1</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>02979354-7567-4533-941a-50d5f809ed5b</guid>
+    <guid>75f6d15c-e138-4e5d-b10b-1b57468976cf</guid>
+    <guid>9b938b8c-eefa-4268-946a-0d449ec13bcc</guid>
+  </Tags>
+</FolderEntryTags>
